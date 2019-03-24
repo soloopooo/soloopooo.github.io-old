@@ -1,9 +1,10 @@
----
+﻿---
 title: Markdown完整语法说明
 layout: post
 categories: markdown
 tags: markdown
 excerpt: 完整版markdown语法
+date: 2018-03-28 09:02:00
 ---
 ## Markdown 完整语法说明 <span id="home">
 

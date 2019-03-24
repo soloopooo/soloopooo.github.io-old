@@ -1,9 +1,10 @@
----
+﻿---
 title: Markdown简明教程
 layout: post
 categories: markdown
 tags: markdown
 excerpt: 简要markdown语法
+date: 2018-03-27 09:00:00
 ---
 ---------
 
