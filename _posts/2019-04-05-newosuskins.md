@@ -8,7 +8,7 @@ date: 2019-04-05 09:15:03
 ---
 ---------
 
-# [点击这里](http://osuskins.soloopooo.tk)来访问皮肤站！
+# [点击这里](https://osuskins.soloopooo.tk)来访问皮肤站！
 
 Osu!是一款免费音乐游戏，详见[Osu!](https://osu.ppy.sh)
 
