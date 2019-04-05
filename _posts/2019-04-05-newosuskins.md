@@ -12,4 +12,4 @@ date: 2019-04-05 09:15:03
 
 Osu!是一款免费音乐游戏，详见[Osu!](https://osu.ppy.sh)
 
-<img src='https://i.postimg.cc/RNJsTndy/screenshot-2019-04-05-at-09-14-02.jpg' border='0' alt='Osu!主页'/>"
+<img src='https://i.postimg.cc/RNJsTndy/screenshot-2019-04-05-at-09-14-02.jpg' border='0' alt='Osu!主页'/>
