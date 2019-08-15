@@ -3,7 +3,7 @@
                          var shi = document.getElementsByClassName('JS-shi')[0];
                          var fen = document.getElementsByClassName('JS-fen')[0];
                          var miao = document.getElementsByClassName('JS-miao')[0];
-                         var endTime = new Date('2019/06/06 23:59:59').getTime() + 1000;
+                         var endTime = new Date('2023/06/30 23:59:59').getTime() + 1000;
                          var interval = null;
                          interval = setInterval(function () {
                           var syhm = endTime - Date.now(); // 剩余毫秒
