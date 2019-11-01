@@ -1,5 +1,5 @@
 .highlight table td { padding: 5px; }
-.highlight code { font-family:  Lucida Console ; }
+.highlight code { font-family:  consolas ; }
 .highlight table pre { margin: 0; }
 .highlight {
   color: #faf6e4;
