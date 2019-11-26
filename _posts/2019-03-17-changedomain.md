@@ -1,5 +1,5 @@
 ---
-title: [公告]博客域名更改
+title: \[公告\]博客域名更改
 layout: post
 categories: 公告
 tags: 公告
