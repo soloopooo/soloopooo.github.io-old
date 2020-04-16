@@ -1,5 +1,5 @@
 ---
-title: (VCB-Studio)DateALive无损版扫描图torrent
+title: (VCB-Studio)DateALive(约会大作战)全三季无损版扫描图种子
 layout: post
 categories: 资源
 tags: DateALive 种子 资源 VCB-S
