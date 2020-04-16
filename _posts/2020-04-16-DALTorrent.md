@@ -10,7 +10,8 @@ date: 2020-04-16 22:22:22
 
 ## 初衷
 
-由于VCB-Studio发布的ReSeed资源，
+由于VCB-Studio发布的ReSeed资源(https://vcb-s.com/archives/2777)中：
+
 > 重发修正
 > 
 > 本次 RS 对剧场版正片重新编码，改善了部分场景下欠码严重导致的画质> 问题。同时修正了 OAD 扫图。
