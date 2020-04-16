@@ -1,8 +1,8 @@
 ---
-title: [VCB-Studio]DateALive无损版扫描torrent
+title: [VCB-Studio]DateALive无损版扫描图torrent
 layout: post
 categories: 资源
-tags: DateALive 种子 资源
+tags: DateALive 种子 资源 VCB-S
 excerpt: 只是一些种子资源...
 date: 2020-04-16 22:22:22
 ---
